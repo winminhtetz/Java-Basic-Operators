@@ -7,14 +7,14 @@ package operators;
  *  4. Bitwise Operator     : &, ^, |
  *  5. Logical Operator     : &&, ||
  *  6. Assignment Operator  : =, +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=, >>>=
- *  7. ...
- *  8. ...
+ *  7. Shift Operator       : <<, >>, >>>
+ *  8. Ternary Operator     : condition ? expressionIfTrue : expressionIfFalse
  */
 
-//Operands တွေကို အနှစ်ချုပ်ရင် -
-    //1. Unary Operator : operand တစ်ခုစာ အလုပ်လုပ်ပေး။
+//Operators တွေကို အနှစ်ချုပ်ရင် -
+    //1. Unary Operator    : operand တစ်ခုစာ အလုပ်လုပ်ပေး။
     //2. Binary Operator   : operand နှစ်ခုစာ အလုပ်လုပ်ပေး။
-    //3. Ternary Operator : operand သုံးခုစာ အလုပ်လုပ်ပေး။
+    //3. Ternary Operator  : operand သုံးခုစာ အလုပ်လုပ်ပေး။
 
 public class OpeartorsInJava {
     public static void main(String[] args) {
